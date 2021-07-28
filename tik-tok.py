@@ -26,3 +26,5 @@ for i in range(4):
 	qal.left(180)
 	qal.circle(64,90,90)
 oyna.mainloop()
+# @Asilbek_developer_oo1
+# @robocontest_uz
